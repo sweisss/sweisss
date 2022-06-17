@@ -1,16 +1,15 @@
-### Hi there 👋
+### sweisss
 
 
-**sweisss/sweisss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OSU-Cascades Computer Science/Software engineering student. Currently in year 3 of 4 in the program.
 
-Here are some ideas to get you started:
+Formerly a craft brewer for about 9 years. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Lifelong skier/snowboarder. 
+
+Previous backgrounds include Social Ecology, Global Cultures, Urban & Regional Planning, and Art History. 
+
+Seeking to develop software projects that draw upon previous knowledge and experiences to promote a more energy efficient and sustainable lifestyle.
+
+Most repos here are unfortunately private due to the fact that they are class projects that should not be shared for academic honesty and integrity reasons. 
 
