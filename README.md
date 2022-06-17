@@ -1,7 +1,7 @@
 ### sweisss
 
 
-OSU-Cascades Computer Science/Software engineering student. Currently in year 3 of 4 in the program.
+OSU-Cascades Computer Science/Software Engineering student. Currently in program year 3 of 4.
 
 Formerly a craft brewer for about 9 years. 
 
